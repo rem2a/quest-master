@@ -1,5 +1,4 @@
 # quest-master
-
 ## Project setup
 ```
 npm install
