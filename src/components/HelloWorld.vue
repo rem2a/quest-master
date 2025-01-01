@@ -30,6 +30,7 @@
   </div>
 </template>
 
+<!-- props: { msg: String } : Permet de recevoir une donnée (ici msg) depuis un autre composant (comme App.vue) -->
 <script>
 export default {
   name: 'HelloWorld',

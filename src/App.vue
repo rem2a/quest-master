@@ -1,8 +1,10 @@
+<-- <template> : Le HTML de ce composant. -->
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="Bienvenu dant votre App Vue.js App"/>
 </template>
 
+<-- <script> : Le code javascript pour gérer les données et comportement -->
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
@@ -14,6 +16,7 @@ export default {
 }
 </script>
 
+<-- <style> : Les styles spécifiques à ce composant. -->
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
